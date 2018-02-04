@@ -5,6 +5,9 @@ tags:
 - github pages
 - github
 - hexo
+categories:
+- github pages
+- hexo blog
 ---
 ### github上创建仓库
 在github上创建名为USERNAME.github.io的仓库，其中USERNAME为github的名字，不能用别的名字，否则无效。
